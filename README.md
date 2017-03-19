@@ -1,6 +1,7 @@
 # Miniex_06
 
 //Blue Waves
+
 https://mariakopo.github.io/Miniex_06/
 
 ![Screenshot](https://github.com/mariakopo/Miniex_06/blob/gh-pages/Sk%C3%A6rmbillede%202017-03-19%20kl.%2014.56.02.png)
