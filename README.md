@@ -5,6 +5,7 @@
 My program is based on different colors and random shapes with a nice sound playing in the background which you can control with your mousepad. Just pressed play and enjoy. 
 
 
+
 		
 //What are the rules that you have employed in your program?//
 
@@ -13,6 +14,7 @@ When you click with your mousepad the color will change and the music will start
  
 
 I have named my program "Blue Waves" because of the blue colors and the music. I got some inspiration form the the song that is named "Blue Whale". 
+
 
 
 
