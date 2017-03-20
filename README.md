@@ -5,7 +5,7 @@
 My program is based on different colors and random shapes with a nice sound playing in the background which you can control with your mousepad. Just pressed play and enjoy. 
 
 
-![Screenshot]
+![Screenshot](https://github.com/mariakopo/Miniex_06/blob/gh-pages/Sk%C3%A6rmbillede%202017-03-19%20kl.%2014.56.02.png)
 
 
 
